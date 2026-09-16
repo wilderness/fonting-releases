@@ -1,18 +1,24 @@
-# Fonting 0.4.0-beta.1
+# Fonting 0.4.0-beta.2
 
 Fonting helps you discover, organize, preview, and compare typefaces on your Mac.
 
-- Compare two or more fonts side by side or stacked, using your own word (starts with Aqua), individual styles, shared size and tracking, and one-click Clear All.
-- View your fonts in six square design layouts.
-- Import local fonts and supported foundry links, organize My Fonts, and preview or install available files.
-- New beta releases appear in an in-app toast with a Download Update button. You can also use Settings or Fonting → Check for Updates.
-- The Legal Disclaimer is accessible in the footer and Fonting → About Fonting.
+- The free version holds five font families, with all styles in each family. The sixth family opens Unlock Fonting.
+- During the beta, confirming your email unlocks unlimited font families for free. No password, payment details, or automatic charges. Existing libraries above the limit stay intact.
+- Cloud sync is optional and separate from account creation. Font-file backup is a separate opt-in. Settings includes account deletion and privacy information.
+- Click a family's style count to preview all its styles at full size, then use Back to return to your library.
+- In Compare now removes the selected family. Compare two or more fonts side by side or stacked.
+- Non Sans imports now find the relevant 15 styles, with the correct family and foundry names, ready for preview and installation.
+- Preview text has one clear control, and the current app version appears beside Legal Disclaimer in the footer.
+- View your fonts in six square design layouts. Import local files and supported foundry links, organize My Fonts, and preview or install available files.
+- New beta releases appear in an in-app toast with a Download Update button.
+
+Beta access is not a lifetime purchase of a future paid version. Font licenses are separate from access to Fonting.
 
 ## Download and install
 
 **macOS 13 or newer. One universal download supports Apple silicon and Intel Macs.**
 
-[Download Fonting for Mac (0.4.0-beta.1)](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.1/Fonting-0.4.0-beta.1-universal.dmg) · [ZIP alternative](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.1/Fonting-0.4.0-beta.1-universal.zip)
+[Download Fonting for Mac (0.4.0-beta.2)](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.2/Fonting-0.4.0-beta.2-universal.dmg) · [ZIP alternative](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.2/Fonting-0.4.0-beta.2-universal.zip)
 
 Open the DMG and drag Fonting to Applications. For an update, quit Fonting first and replace the existing app; your library is stored separately.
 
