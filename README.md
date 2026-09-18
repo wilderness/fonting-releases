@@ -1,17 +1,19 @@
-# Fonting 0.4.0-beta.5
+# Fonting 0.4.0-beta.6
 
 Fonting helps you discover, organize, preview, and compare typefaces on your Mac.
 
-## What's new in beta.5
+## What's new in beta.6
 
-- Double-click a font to open its specimen page: an editable Demo with size and tracking sliders, a compact Showcase of letters and symbols, full-size style samples, and a character grid.
-- Collection, Compare, layout, favorite, delete, and details actions are available in the specimen header. Clicking a library cell selects it; the details panel opens through its panel button.
-- Try ten new design layouts with your fonts, including live text and bundled imagery.
-- Choose custom foreground and background colors using hex codes or eight preset chips. Background colors wrap the preview text. Appearance controls are available globally beside Search.
-- Large libraries load previews as you scroll, with virtualized list and grid views and a bounded font cache to keep browsing responsive.
-- Cleaner edge-to-edge grid cells, an Inactive Fonts section, and collection controls for adding, removing, and creating collections from a font.
-- Filters open in organized columns, with unavailable options dimmed. Compare now has a tracking slider and clearer empty-state guidance.
-- A refreshed DMG installer guides you to drag Fonting into Applications.
+- Scan & cleanup helps organize your library using font names, metadata, and local letterform analysis. Review results, research unresolved foundries, and undo the last scan. Included for verified beta users now; planned as a paid feature after beta.
+- Automatic Serif and Sans Serif collections appear for every user and stay in sync with imports, classification changes, and cleanup results. Serif also includes slab serif fonts.
+- Foundry grouping recognizes variations such as “and” versus “&” and registered trademark symbols. Local metadata and references identify foundries where possible; uncertain vendor matches are suggestions for review.
+- Browse fonts from a collapsible list inside the specimen page, with the same sorting options as the grid. Specimen controls now include line height down to 50%, size up to 240 px, and tracking down to -150. Tight line heights preserve visible letter edges.
+- Choose preview text and background colors using an inline spectrum, hex values, or eight preset chips, with a No background option and a subtle tint when both colors match.
+- A more compact preview toolbar, cleaner Font Details header, and foundry names beneath specimen titles keep controls organized. Style is the rightmost specimen control.
+- Font cells keep their height steady while dragging Size, and long previews clip without a horizontal scrollbar. Variable fonts with weight axes starting at zero, including Garaje, now preview correctly.
+- A branded three-second startup screen shows the running version.
+
+Font analysis runs on your Mac without uploading font files or specimens. Unusual or ambiguous fonts may still need manual classification. Research foundry opens a browser search using the font name; it does not automatically resolve every unknown foundry.
 
 Available styles and characters depend on what each website provides. Some sites expose only trial files or limited webfont subsets. If a site does not provide accessible font files, import a file obtained from the foundry.
 
@@ -19,6 +21,7 @@ Available styles and characters depend on what each website provides. Some sites
 
 - Import up to five font families through pasted links for free, with all styles in each family. Confirm your email to unlock unlimited link imports during the beta, with no password, payment details, or automatic charges. Fonts already on your Mac and local-file imports do not use this allowance.
 - Cloud sync and font-file backup remain separate opt-ins.
+- Verified beta access also includes Scan & cleanup. Automatic Serif and Sans Serif collections are available to all users without verification.
 - Preview every style at full size, compare fonts side by side or stacked, and try ten square design layouts.
 - New beta releases appear in an in-app toast with a Download Update button.
 
@@ -28,7 +31,7 @@ Beta access is not a lifetime purchase of a future paid version. Font licenses a
 
 **macOS 13 or newer. One universal download supports Apple silicon and Intel Macs.**
 
-[Download Fonting for Mac (0.4.0-beta.5)](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.5/Fonting-0.4.0-beta.5-universal.dmg) · [ZIP alternative](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.5/Fonting-0.4.0-beta.5-universal.zip)
+[Download Fonting for Mac (0.4.0-beta.6)](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.6/Fonting-0.4.0-beta.6-universal.dmg) · [ZIP alternative](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.6/Fonting-0.4.0-beta.6-universal.zip)
 
 Open the DMG and drag Fonting to Applications. For an update, quit Fonting first and replace the existing app; your library is stored separately.
 
