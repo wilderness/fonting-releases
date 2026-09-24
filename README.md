@@ -1,8 +1,14 @@
-# Fonting 0.4.0-beta.6
+# Fonting 0.4.0-beta.7
 
 Fonting helps you discover, organize, preview, and compare typefaces on your Mac.
 
-## What's new in beta.6
+## What's new in 0.4.0-beta.7
+
+- Fonting is now signed by Geoform LLC with an Apple Developer ID certificate and notarized by Apple for direct download. The app and DMG include notarization tickets for offline verification.
+- The universal installer supports Apple silicon and Intel Macs running macOS 13 or newer.
+
+## Library and specimen tools
+
 
 - Scan & cleanup helps organize your library using font names, metadata, and local letterform analysis. Review results, research unresolved foundries, and undo the last scan. Included for verified beta users now; planned as a paid feature after beta.
 - Automatic Serif and Sans Serif collections appear for every user and stay in sync with imports, classification changes, and cleanup results. Serif also includes slab serif fonts.
@@ -31,11 +37,11 @@ Beta access is not a lifetime purchase of a future paid version. Font licenses a
 
 **macOS 13 or newer. One universal download supports Apple silicon and Intel Macs.**
 
-[Download Fonting for Mac (0.4.0-beta.6)](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.6/Fonting-0.4.0-beta.6-universal.dmg) · [ZIP alternative](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.6/Fonting-0.4.0-beta.6-universal.zip)
+[Download Fonting for Mac (0.4.0-beta.7)](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.7/Fonting-0.4.0-beta.7-universal.dmg) · [ZIP alternative](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.7/Fonting-0.4.0-beta.7-universal.zip)
 
 Open the DMG and drag Fonting to Applications. For an update, quit Fonting first and replace the existing app; your library is stored separately.
 
-This is an **unsigned beta** (ad-hoc signature only), with no Apple Developer ID or notarization. macOS may block its first launch. After trying to open it, if you trust this download, use System Settings → Privacy & Security → Open Anyway and confirm the app. Managed Macs may not permit unsigned apps. Do not disable Gatekeeper globally. Apple's instructions: https://support.apple.com/en-us/102445
+This beta is **Developer ID signed and Apple notarized**. Open Fonting from Applications and confirm the standard first-launch prompt if macOS asks. Your existing fonts, collections, and settings remain in their separate library folder.
 
 ## Font licenses
 
