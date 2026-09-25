@@ -1,24 +1,26 @@
-# Fonting 0.4.0-beta.8
+# Fonting 0.4.0-beta.9
 
 Fonting helps you discover, organize, preview, and compare typefaces on your Mac.
 
-## What's new in 0.4.0-beta.8
+## What's new in 0.4.0-beta.9
 
-- Import font files or folders from your Mac. Web-link importing and its five-family allowance have been removed. Your existing fonts and collections are preserved.
-- Review the same Terms of use, Privacy Policy, and Legal Disclaimer in the app and on fonting.co. The app asks you to accept the current terms and keeps the version and acceptance date locally.
-- Cloud sync waits for acceptance of the current terms. Sync and font-file backup remain separate choices.
-- Email verification unlocks Scan & Cleanup during beta. Local imports and Mac-font management do not require an account.
+- A full-page Scan & cleanup workspace saves your results and lets you review, classify, edit, or ignore fonts individually or in batches. Analyze only selected or unresolved fonts without rescanning the entire library.
+- Find fonts in folders and drives on your Mac, review what was found, and add them with their installed, disabled, or uninstalled status preserved. Temporarily activate library fonts while Fonting is running; quitting releases them and reopening restores your selections.
+- Focus mode puts typography first, with an expandable icon-only sidebar, search, preview colors, and grid or single-column browsing. Cleaner font cards collect actions in a three-dot menu.
+- Edit the text in all ten full-page layouts while preserving their design. Layout thumbnails stay available in focus mode. Inspect enlarged characters, switch fonts, and use arrow keys to explore the character set.
+- Choose from ten curated color pairings, use the integrated gradient picker, and save up to eight custom text colors plus eight custom background colors. Compare previews now support sizes up to 300 px.
+- Faster browsing and a smaller production bundle, with refined controls, spacing, and navigation throughout the app.
 
 Developer ID signed by Geoform LLC and notarized by Apple, with stapled app and installer tickets. One universal installer supports Apple silicon and Intel Macs running macOS 13 or newer.
 
 ## Library and specimen tools
 
-- Scan & cleanup helps organize your library using font names, metadata, and local letterform analysis. Review results, research unresolved foundries, and undo the last scan. Included for verified beta users now; planned as a paid feature after beta.
+- Scan & cleanup uses font names, metadata, and local letterform analysis. Review category, attribute, foundry, and designer details; research unresolved creators; or undo the last scan. Ignored fonts can return after a fresh scan. Included for verified beta users now; planned as a paid feature after beta.
 - Automatic Serif and Sans Serif collections appear for every user and stay in sync with imports, classification changes, and cleanup results. Serif also includes slab serif fonts.
 - Foundry grouping recognizes variations such as “and” versus “&” and registered trademark symbols. Local metadata and references identify foundries where possible; uncertain vendor matches are suggestions for review.
 - Browse fonts from a collapsible list inside the specimen page, with the same sorting options as the grid. Specimen controls now include line height down to 50%, size up to 240 px, and tracking down to -150. Tight line heights preserve visible letter edges.
-- Choose preview text and background colors using an inline spectrum, hex values, or eight preset chips, with a No background option and a subtle tint when both colors match.
-- A more compact preview toolbar, cleaner Font Details header, and foundry names beneath specimen titles keep controls organized. Style is the rightmost specimen control.
+- Choose preview text and background colors using pairings, an inline spectrum, hex values, or independently saved color chips, with a No background option and a subtle tint when both colors match.
+- Collections and Foundries can be collapsed in the sidebar. Empty searches within a collection or category offer Search all to continue across My Fonts. Cleanup introductions can be dismissed permanently.
 - Font cells keep their height steady while dragging Size, and long previews clip without a horizontal scrollbar. Variable fonts with weight axes starting at zero, including Garaje, now preview correctly.
 - A branded three-second startup screen shows the running version.
 
@@ -40,7 +42,7 @@ Beta access is not a lifetime purchase of a future paid version. Font licenses a
 
 **macOS 13 or newer. One universal download supports Apple silicon and Intel Macs.**
 
-[Download Fonting for Mac (0.4.0-beta.8)](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.8/Fonting-0.4.0-beta.8-universal.dmg) · [ZIP alternative](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.8/Fonting-0.4.0-beta.8-universal.zip)
+[Download Fonting for Mac (0.4.0-beta.9)](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.9/Fonting-0.4.0-beta.9-universal.dmg) · [ZIP alternative](https://github.com/wilderness/fonting-releases/releases/download/v0.4.0-beta.9/Fonting-0.4.0-beta.9-universal.zip)
 
 Open the DMG and drag Fonting to Applications. For an update, quit Fonting first and replace the existing app; your library is stored separately.
 
