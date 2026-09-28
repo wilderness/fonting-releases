@@ -4,9 +4,9 @@ Keep your collection in order and find the right face when you need it. Fonting 
 
 ## Download
 
-**Fonting 1.0.1 · macOS 13 or newer · Apple silicon and Intel**
+**Fonting 1.1.0 · macOS 13 or newer · Apple silicon and Intel**
 
-[Download Fonting for Mac](https://github.com/wilderness/fonting-releases/releases/download/v1.0.1/Fonting-1.0.1-universal.dmg) · [ZIP alternative](https://github.com/wilderness/fonting-releases/releases/download/v1.0.1/Fonting-1.0.1-universal.zip)
+[Download Fonting for Mac](https://github.com/wilderness/fonting-releases/releases/download/v1.1.0/Fonting-1.1.0-universal.dmg) · [ZIP alternative](https://github.com/wilderness/fonting-releases/releases/download/v1.1.0/Fonting-1.1.0-universal.zip)
 
 Open the DMG and drag Fonting to Applications. Fonting is Developer ID signed by Geoform LLC and notarized by Apple. To update, quit Fonting and replace the app in Applications; your font library and settings are stored separately.
 
@@ -20,7 +20,7 @@ Open the DMG and drag Fonting to Applications. Fonting is Developer ID signed by
 
 Try the core app free for 30 days with no card required. A one-time USD $49 purchase, or a complimentary license, keeps Fonting available and unlocks Scan & Cleanup. A license activates one Mac at a time; you can move it when changing Macs.
 
-[See what's new in 1.0.1](https://github.com/wilderness/fonting-releases/releases/tag/v1.0.1), including improved Mac font status, collection controls, Finder-to-collection import, and font activation options. The app offers newer published releases through its update checker.
+[See what's new in 1.1.0](https://github.com/wilderness/fonting-releases/releases/tag/v1.1.0), including the Custom layout, image and text controls, and updated Rosie’s Flower Shop artwork. The app offers newer published releases through its update checker.
 
 ## Font licenses
 
