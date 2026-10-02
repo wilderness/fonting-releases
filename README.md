@@ -4,9 +4,9 @@ Keep your collection in order and find the right face when you need it. Fonting 
 
 ## Download
 
-**Fonting 1.2.0 · macOS 13 or newer · Apple silicon and Intel**
+**Fonting 1.2.1 · macOS 13 or newer · Apple silicon and Intel**
 
-[Download Fonting for Mac](https://github.com/wilderness/fonting-releases/releases/download/v1.2.0/Fonting-1.2.0-universal.dmg) · [ZIP alternative](https://github.com/wilderness/fonting-releases/releases/download/v1.2.0/Fonting-1.2.0-universal.zip)
+[Download Fonting for Mac](https://github.com/wilderness/fonting-releases/releases/download/v1.2.1/Fonting-1.2.1-universal.dmg) · [ZIP alternative](https://github.com/wilderness/fonting-releases/releases/download/v1.2.1/Fonting-1.2.1-universal.zip)
 
 Open the DMG and drag Fonting to Applications. Fonting is Developer ID signed by Geoform LLC and notarized by Apple. To update, quit Fonting and replace the app in Applications; your font library and settings are stored separately.
 
@@ -20,7 +20,7 @@ Open the DMG and drag Fonting to Applications. Fonting is Developer ID signed by
 
 Try the core app free for 30 days with no card required. New customers can subscribe for USD $49 per year to keep full access, Scan & Cleanup, and optional cloud backup. The plan renews until canceled. Existing one-time purchasers and redeemed friend-code accounts keep their non-expiring access. A license activates one Mac at a time; you can move it when changing Macs.
 
-[See what's new in 1.2.0](https://github.com/wilderness/fonting-releases/releases/tag/v1.2.0). The app offers newer published releases through its update checker.
+[See what's new in 1.2.1](https://github.com/wilderness/fonting-releases/releases/tag/v1.2.1). The app offers newer published releases through its update checker.
 
 ## Font licenses
 
